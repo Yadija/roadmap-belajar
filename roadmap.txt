@@ -4,3 +4,4 @@ Roadmap Yadija
 -Javascript
 -HTTP
 -Bootstrap
+-Tailwind
