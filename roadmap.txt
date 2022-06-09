@@ -2,6 +2,5 @@ Roadmap Yadija
 -HTML
 -CSS
 -Javascript
--HTTP
 -Bootstrap
--Tailwind
+-React JS
