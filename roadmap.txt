@@ -2,5 +2,5 @@ Roadmap Yadija
 -HTML
 -CSS
 -Javascript
--HTTP
 -Bootstrap
+-React JS
